@@ -1,6 +1,7 @@
-ласкаво просимо!!!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guardixn/guardixn/main/238545_in_1000x1000.jpg" style="width:250px; max-width:100%;"/>
+</p>
 
-working as a software engineer somewhere in the world, experienced with windows user & kernel development
-
-love from guardian!!
-long live guardian
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vscode,cpp,rust,windows,linux,git,cmake" />
+</p>
